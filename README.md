@@ -1,4 +1,5 @@
 ##Drupal 8 links & resources 
+  Feel free to fork & contribute :)
 
 + Official docs
     + [Drupal 8 Updates and How to Help](https://drupal.org/community-initiatives/drupal-core)

@@ -29,6 +29,7 @@
     + [Understanding Drupal 8's Modal API and Dialog Controller](http://previousnext.com.au/blog/understanding-drupal-8s-modal-api-and-dialog-controller)
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
 + Presentations
+    + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
 + Virtual Machines & Stacks

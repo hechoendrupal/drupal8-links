@@ -6,6 +6,9 @@
     + [Creating Drupal 8.x modules](https://drupal.org/node/1915030)
     + [D7 to D8 upgrade tutorial: Pants module](https://drupal.org/node/1911346)
     + [Writing module .info.yml files (Drupal 8.x)](https://drupal.org/node/2000204)
+    + [REST: exposing data as RESTful web services](https://drupal.org/documentation/modules/rest)
++ PHP Docs
+    + [Classes and Objects](http://php.net/manual/en/language.oop5.php)
 + Code Examples
     + [Using Drupal 8's new route controllers](http://previousnext.com.au/blog/using-drupal-8s-new-route-controllers)
     + [Drupal 8 Module Development, Part 1: Getting Started](http://getlevelten.com/blog/ian-whitcomb/drupal-8-module-development-part-1-getting-started)
@@ -33,6 +36,7 @@
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
+    + [REST and Serialization in Drupal 8](http://linclark.github.io/d8-rest-slides/)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
 + Virtual Machines & Stacks

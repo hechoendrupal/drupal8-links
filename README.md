@@ -35,6 +35,7 @@
     + [Understanding Drupal 8's Modal API and Dialog Controller](http://previousnext.com.au/blog/understanding-drupal-8s-modal-api-and-dialog-controller)
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
     + [Drupal 8 Twig Templates and Translations](http://getlevelten.com/blog/mark-carver/drupal-8-twig-templates-and-translations)
+    + [Drupal 8: Writing a Hello World Module](http://drupalize.me/blog/201307/drupal-8-writing-hello-world-module)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

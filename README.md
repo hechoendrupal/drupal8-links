@@ -7,6 +7,7 @@
     + [D7 to D8 upgrade tutorial: Pants module](https://drupal.org/node/1911346)
     + [Writing module .info.yml files (Drupal 8.x)](https://drupal.org/node/2000204)
     + [REST: exposing data as RESTful web services](https://drupal.org/documentation/modules/rest)
+    + [Change records for Drupal core](https://drupal.org/list-changes)
 + PHP Docs
     + [Classes and Objects](http://php.net/manual/en/language.oop5.php)
 + Code Examples

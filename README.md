@@ -42,6 +42,10 @@
     + [REST and Serialization in Drupal 8](http://linclark.github.io/d8-rest-slides/)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
++ Videos
+    + [EBDUG 02 - Twig, Drupal 8's New Theme Layer (Jen Lampton)](http://www.youtube.com/watch?v=adrW67KrdUY)
+    + [Creating Your First Simple Drupal 8 Module (Dev version July 2013)](http://www.youtube.com/watch?v=Q-aubgnL72s)
+    + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books

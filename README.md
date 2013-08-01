@@ -20,6 +20,7 @@
     + [Twigify converts Drupal 7 phpTemplate themes into Drupal 8 Twig themes](https://github.com/ElephantVentures/public-twigify)    
     + [Drupal 8 Field API series part 1: field formatters](http://realize.be/drupal-8-field-api-series-part-1-field-formatters)
     + [Routing Example in Drupal 8](https://github.com/nathanjo/example_d8)
+    + [Controlling Access to Drupal 8 Routes with Access Checks](http://previousnext.com.au/blog/controlling-access-drupal-8-routes-access-checks)
 + Blog post
     + [Learn Drupal 8 now by helping to make it more unified and user/developer friendly](http://hojtsy.hu/blog/2013-feb-07/learn-drupal-8-now-helping-make-it-more-unified-and-userdeveloper-friendly)
     + [Drupal 8 and Symfony in Layman's Terms](http://www.duoconsulting.com/blog/drupal-8-and-symfony-laymans-terms)

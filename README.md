@@ -1,4 +1,4 @@
-Angie Byron talks Drupal 8 as it exists today and where it's going##Drupal 8 links & resources 
+##Drupal 8 links & resources 
   Feel free to fork & contribute :)
 
 + Official docs
@@ -36,6 +36,8 @@ Angie Byron talks Drupal 8 as it exists today and where it's going##Drupal 8 lin
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
     + [Drupal 8 Twig Templates and Translations](http://getlevelten.com/blog/mark-carver/drupal-8-twig-templates-and-translations)
     + [Drupal 8: Writing a Hello World Module](http://drupalize.me/blog/201307/drupal-8-writing-hello-world-module)
+    + [What's new in Drupal 8?](http://www.mediacurrent.com/blog/whats-new-drupal-8)
+    + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
@@ -47,8 +49,9 @@ Angie Byron talks Drupal 8 as it exists today and where it's going##Drupal 8 lin
     + [Creating Your First Simple Drupal 8 Module (Dev version July 2013)](http://www.youtube.com/watch?v=Q-aubgnL72s)
     + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)
     + [Angie Byron talks Drupal 8 as it exists today and where it's going](http://www.youtube.com/watch?v=pOrCf_PVYcc)
+    + [deSymfony 2013 - Symfony y Drupal - Español](http://www.youtube.com/watch?v=luiSlDeQh3s)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books
-    + [Desarrollo web ágil con Symfony2](http://symfony.es/libro/)
+    + [Desarrollo web ágil con Symfony2 - Español](http://symfony.es/libro/)
 

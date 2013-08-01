@@ -1,4 +1,4 @@
-##Drupal 8 links & resources 
+Angie Byron talks Drupal 8 as it exists today and where it's going##Drupal 8 links & resources 
   Feel free to fork & contribute :)
 
 + Official docs
@@ -46,6 +46,7 @@
     + [EBDUG 02 - Twig, Drupal 8's New Theme Layer (Jen Lampton)](http://www.youtube.com/watch?v=adrW67KrdUY)
     + [Creating Your First Simple Drupal 8 Module (Dev version July 2013)](http://www.youtube.com/watch?v=Q-aubgnL72s)
     + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)
+    + [Angie Byron talks Drupal 8 as it exists today and where it's going](http://www.youtube.com/watch?v=pOrCf_PVYcc)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books

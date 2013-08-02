@@ -39,7 +39,7 @@
     + [Drupal 8: Writing a Hello World Module](http://drupalize.me/blog/201307/drupal-8-writing-hello-world-module)
     + [What's new in Drupal 8?](http://www.mediacurrent.com/blog/whats-new-drupal-8)
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
-    + Drupal 8: Hello OOP, Hello world!(http://effulgentsia.drupalgardens.com/content/drupal-8-hello-oop-hello-world)
+    + [Drupal 8: Hello OOP, Hello world!](http://effulgentsia.drupalgardens.com/content/drupal-8-hello-oop-hello-world)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

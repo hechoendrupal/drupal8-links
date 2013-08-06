@@ -40,6 +40,7 @@
     + [What's new in Drupal 8?](http://www.mediacurrent.com/blog/whats-new-drupal-8)
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
     + [Drupal 8: Hello OOP, Hello world!](http://effulgentsia.drupalgardens.com/content/drupal-8-hello-oop-hello-world)
+    + [Intro to Drupal 8 Vocabulary](http://www.mediacurrent.com/blog/intro-drupal-8-vocabulary)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
@@ -52,6 +53,7 @@
     + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)
     + [Angie Byron talks Drupal 8 as it exists today and where it's going](http://www.youtube.com/watch?v=pOrCf_PVYcc)
     + [deSymfony 2013 - Symfony y Drupal - Español](http://www.youtube.com/watch?v=luiSlDeQh3s)
+    + [Intro to Drupal 8 Vocabulary](http://www.youtube.com/watch?v=15vkeh91ql4)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books

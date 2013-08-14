@@ -61,4 +61,6 @@
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books
     + [Desarrollo web ágil con Symfony2 - Español](http://symfony.es/libro/)
-
++ Sites
+    + [Drupalism: Guide to transition from Drupal 7 to Drupal 8](http://www.drupalism.com/)
+    + [#D8CX Drupal 8 Contrib Experience](http://d8cx.org/)

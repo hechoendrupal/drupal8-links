@@ -45,6 +45,7 @@
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
     + [Intro to Drupal 8 Vocabulary](http://www.mediacurrent.com/blog/intro-drupal-8-vocabulary)
     + [Drupal 8: Building Twig Performance](https://www.acquia.com/blog/drupal-8-building-twig-performance)
+    + [Al dia con Drupal 8: Actualizando el módulo humanstxt (Español)](http://cambrico.net/drupal/al-dia-con-drupal-8-actualizando-el-modulo-humanstxt)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

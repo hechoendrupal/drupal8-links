@@ -42,10 +42,10 @@
     + [Drupal 8 Twig Templates and Translations](http://getlevelten.com/blog/mark-carver/drupal-8-twig-templates-and-translations)
     + [Drupal 8: Writing a Hello World Module](http://drupalize.me/blog/201307/drupal-8-writing-hello-world-module)
     + [What's new in Drupal 8?](http://www.mediacurrent.com/blog/whats-new-drupal-8)
-    + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
     + [Intro to Drupal 8 Vocabulary](http://www.mediacurrent.com/blog/intro-drupal-8-vocabulary)
     + [Drupal 8: Building Twig Performance](https://www.acquia.com/blog/drupal-8-building-twig-performance)
     + [A Drupaler in Symfony Land](http://krisandju.e-webindustries.com/blog/drupaler-symfony-land)
+    + [Al dia con Drupal 8: Actualizando el módulo humanstxt (Español)](http://cambrico.net/drupal/al-dia-con-drupal-8-actualizando-el-modulo-humanstxt)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

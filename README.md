@@ -27,7 +27,7 @@
     + [Drupal 8: Hello OOP, Hello world!](http://effulgentsia.drupalgardens.com/content/drupal-8-hello-oop-hello-world)
     + [Drupal 8: Forms, OOP style] (http://effulgentsia.drupalgardens.com/content/drupal-8-forms-oop-style)
     + [Drupal 8 Module Development, Part 3: Plugins](http://getlevelten.com/blog/ian-whitcomb/drupal-8-module-development-part-3-plugins)
-+ Blog post
++ Blog posts
     + [Learn Drupal 8 now by helping to make it more unified and user/developer friendly](http://hojtsy.hu/blog/2013-feb-07/learn-drupal-8-now-helping-make-it-more-unified-and-userdeveloper-friendly)
     + [Drupal 8 and Symfony in Layman's Terms](http://www.duoconsulting.com/blog/drupal-8-and-symfony-laymans-terms)
     + [Drupal 8: New Multilingual Features](http://drupalize.me/blog/201307/drupal-8-new-multilingual-features)

@@ -8,6 +8,7 @@
     + [Writing module .info.yml files (Drupal 8.x)](https://drupal.org/node/2000204)
     + [REST: exposing data as RESTful web services](https://drupal.org/documentation/modules/rest)
     + [Change records for Drupal core](https://drupal.org/list-changes)
+    + [What Drupal 8 API changes are still outstanding](https://groups.drupal.org/node/313408)
 + PHP Docs
     + [Classes and Objects](http://php.net/manual/en/language.oop5.php)
 + Code Examples

@@ -67,6 +67,7 @@
     + [Angie Byron talks Drupal 8 as it exists today and where it's going](http://www.youtube.com/watch?v=pOrCf_PVYcc)
     + [deSymfony 2013 - Symfony y Drupal - Español](http://www.youtube.com/watch?v=luiSlDeQh3s)
     + [Intro to Drupal 8 Vocabulary](http://www.youtube.com/watch?v=15vkeh91ql4)
+    + [Drupal 8: Site install, module installation, directory layout](http://www.youtube.com/watch?v=k9G2IWGgWjY)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books

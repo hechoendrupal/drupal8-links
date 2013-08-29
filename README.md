@@ -58,6 +58,7 @@
     + [8 things I'm going to love about Drupal 8](http://wadmiraal.net/lore/2013/08/05/8-things-i-m-going-to-love-about-d8/)
     + [Getting your site ready for Drupal 8](https://www.acquia.com/blog/getting-your-site-ready-drupal-8)
     + [Drupal 8 - A Wave of Change](http://www.blinkreaction.com/blog/drupal-8-a-wave-of-change)
+    + [How I Learned to Love Drupal 8 on the Road to Prague](https://www.openshift.com/blogs/how-i-learned-to-love-drupal-8-on-the-road-to-prague)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
@@ -65,7 +66,6 @@
     + [Upgrading your modules to Drupal 8](https://portland2013.drupal.org/node/1683)
     + [Dependency Injection in Drupal 8](https://portland2013.drupal.org/session/dependency-injection-drupal-8)
     + [Modernizing Drupal - Using Symfony 2](http://www.garfieldtech.com/presentations/sflportland-drupal8-symfony2/)
-    + [How I Learned to Love Drupal 8 on the Road to Prague](https://www.openshift.com/blogs/how-i-learned-to-love-drupal-8-on-the-road-to-prague)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
 + Videos

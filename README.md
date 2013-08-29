@@ -65,6 +65,7 @@
     + [Upgrading your modules to Drupal 8](https://portland2013.drupal.org/node/1683)
     + [Dependency Injection in Drupal 8](https://portland2013.drupal.org/session/dependency-injection-drupal-8)
     + [Modernizing Drupal - Using Symfony 2](http://www.garfieldtech.com/presentations/sflportland-drupal8-symfony2/)
+    + [How I Learned to Love Drupal 8 on the Road to Prague](https://www.openshift.com/blogs/how-i-learned-to-love-drupal-8-on-the-road-to-prague)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
 + Videos

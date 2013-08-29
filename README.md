@@ -52,6 +52,7 @@
     + [Drupal 8 multilingual tidbits 13: much improved software translation UI](http://hojtsy.hu/blog/2013-aug-20/drupal-8-multilingual-tidbits-13-much-improved-software-translation-ui)
     + [Drupal 8: An Introduction to the New Production](http://www.titancloudworks.com/captains_log/post/drupal-an-introduction-to-the-new-production)
     + [A Look at PHP's Continuing Evolution](https://www.acquia.com/blog/look-phps-continuing-evolution)
+    + [Drupal 8 APIs are freezing but not frozen](http://buytaert.net/drupal-8-apis-are-freezing-but-not-frozen)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

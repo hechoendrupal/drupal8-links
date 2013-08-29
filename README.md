@@ -56,6 +56,7 @@
     + [Drupal 8: to embrace or to brace yourself?](http://flink.com.au/ramblings/drupal-8-embrace-or-brace-yourself-seven-tips-and-traps-make-d7-developers-smile-and-go-arrgh)
     + [Drupal 8: A View Into Performance](https://www.acquia.com/blog/drupal-8-view-performance)
     + [8 things I'm going to love about Drupal 8](http://wadmiraal.net/lore/2013/08/05/8-things-i-m-going-to-love-about-d8/)
+    + [Getting your site ready for Drupal 8](https://www.acquia.com/blog/getting-your-site-ready-drupal-8)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

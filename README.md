@@ -59,6 +59,7 @@
     + [Getting your site ready for Drupal 8](https://www.acquia.com/blog/getting-your-site-ready-drupal-8)
     + [Drupal 8 - A Wave of Change](http://www.blinkreaction.com/blog/drupal-8-a-wave-of-change)
     + [How I Learned to Love Drupal 8 on the Road to Prague](https://www.openshift.com/blogs/how-i-learned-to-love-drupal-8-on-the-road-to-prague)
+    + [OO in D8: Interfaces vs. Abstract Classes Part 1](http://comm-press.de/en/blog/oo-d8-interfaces-vs-abstract-classes-part-1)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

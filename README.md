@@ -75,6 +75,7 @@
     + [Upgrading your modules to Drupal 8](https://portland2013.drupal.org/node/1683)
     + [Dependency Injection in Drupal 8](https://portland2013.drupal.org/session/dependency-injection-drupal-8)
     + [Modernizing Drupal - Using Symfony 2](http://www.garfieldtech.com/presentations/sflportland-drupal8-symfony2/)
+    + [The Old and New Field API in Drupal 8 (DrupalCon Portland Session Notes)](http://drupaltutor.com/blog/2013-05/old-and-new-field-api-drupal-8-drupalcon-portland-session-notes)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
 + Videos

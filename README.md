@@ -68,6 +68,7 @@
     + [On contributing to Drupal 8](http://mc-kenna.com/2013/09/on-contributing-to-drupal-8)
     + [Cliff Edge or Path To The Summit](http://www.makakmedia.co.uk/blog/cliff-edge-or-path-summit)
     + [Why the big architectural changes in Drupal 8](http://buytaert.net/why-the-big-architectural-changes-in-drupal-8)
+    + [Islandora and Drupal 8](http://islandora.ca/content/islandora-and-drupal-8)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

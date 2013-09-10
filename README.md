@@ -79,6 +79,7 @@
     + [The Old and New Field API in Drupal 8 (DrupalCon Portland Session Notes)](http://drupaltutor.com/blog/2013-05/old-and-new-field-api-drupal-8-drupalcon-portland-session-notes)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
+    + [First Take: Create a Block in Drupal 8](http://youtu.be/NiO9Z8s3yRA)
 + Videos
     + [EBDUG 02 - Twig, Drupal 8's New Theme Layer (Jen Lampton)](http://www.youtube.com/watch?v=adrW67KrdUY)
     + [Creating Your First Simple Drupal 8 Module (Dev version July 2013)](http://www.youtube.com/watch?v=Q-aubgnL72s)

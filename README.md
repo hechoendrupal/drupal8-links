@@ -88,6 +88,7 @@
     + [Intro to Drupal 8 Vocabulary](http://www.youtube.com/watch?v=15vkeh91ql4)
     + [Drupal 8: Site install, module installation, directory layout](http://www.youtube.com/watch?v=k9G2IWGgWjY)
     + [Drupal 8: Creating a Blog & Configuration API](Drupal 8: Creating a Blog & Configuration API)
+    + [Portando un módulo a Drupal 8 (Spanish)](https://vimeo.com/74011659)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books

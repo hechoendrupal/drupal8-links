@@ -9,6 +9,7 @@
     + [REST: exposing data as RESTful web services](https://drupal.org/documentation/modules/rest)
     + [Change records for Drupal core](https://drupal.org/list-changes)
     + [What Drupal 8 API changes are still outstanding](https://groups.drupal.org/node/313408)
+    + [D8DX: Improving the D8 developer experience](https://drupal.org/community-initiatives/drupal-core/d8dx)
 + PHP Docs
     + [Classes and Objects](http://php.net/manual/en/language.oop5.php)
 + Code Examples

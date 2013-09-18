@@ -75,6 +75,7 @@
     + [Multilingual Drupal 8](http://hojtsy.hu/multilingual-drupal8)
     + [Drupal 8 as an intuitive platform](http://pingv.com/blog/drupal-8-as-an-intuitive-platform)
     + [Drupal 8: contrib roads, take me home](http://flink.com.au/ramblings/drupal8-contrib-roads-take-me-home)
+    + [Drupal 8 is Coming](http://pingv.com/blog/drupal-8-coming)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)

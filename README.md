@@ -100,6 +100,7 @@
     + [Portando un módulo a Drupal 8 (Spanish)](https://vimeo.com/74011659)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
+    + [Building Really Fast Websites with Drupal 8](https://www.youtube.com/watch?v=lKuyGFOhWxU)
 + Books
     + [Desarrollo web ágil con Symfony2 - Español](http://symfony.es/libro/)
     + [A Year With Symfony Writing healthy, reusable Symfony2 code](https://leanpub.com/a-year-with-symfony)

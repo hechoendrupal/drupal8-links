@@ -37,6 +37,8 @@
     + [First Approach to Drupal 8](http://drewpull.drupalgardens.com/blog/first-approach-drupal-8)
     + [Routing with Drupal 8](http://slid.es/saschagrossenbacher/drupal-8-routing)
     + [Drupal 8 module development #3 - adding a settings page](hhttp://www.enginx.com/content/drupal-8-module-development-3-adding-settings-page)
+    + [Upgrading the Search API to D8: Creating an entity type](http://drunkenmonkey.at/blog/search-api-d8-update-part-1)
+    + [Upgrading the Search API to D8: Configuration and schema](http://drunkenmonkey.at/blog/search-api-d8-update-part-2)
 + Blog posts
     + [Learn Drupal 8 now by helping to make it more unified and user/developer friendly](http://hojtsy.hu/blog/2013-feb-07/learn-drupal-8-now-helping-make-it-more-unified-and-userdeveloper-friendly)
     + [Drupal 8 and Symfony in Layman's Terms](http://www.duoconsulting.com/blog/drupal-8-and-symfony-laymans-terms)

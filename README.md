@@ -86,6 +86,7 @@
     + [What’s expected in Drupal 8?](http://www.anubavam.com/blogs/what%E2%80%99s-expected-drupal-8)
     + [Understanding Drupal 8, part 1: the general structure of the framework](http://cipix.nl/understanding-drupal-8-part-1-general-structure-framework)
     + [Understanding Drupal 8, part 2: The Service Container](http://cipix.nl/understanding-drupal-8-part-2-service-container)
+    + [Why you should be excited about Drupal 8](https://www.acquia.com/blog/why-you-should-be-excited-about-drupal-8)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
@@ -118,4 +119,4 @@
     + [Drupalism: Guide to transition from Drupal 7 to Drupal 8](http://www.drupalism.com/)
     + [#D8CX Drupal 8 Contrib Experience](http://d8cx.org/)
 + Tools
-    + [Drupal App Console](https://github.com/hechoendrupal/DrupalAppConsole)
+    + [Scaffolding tool for Drupal 8 based on Symfony Console component.](https://github.com/hechoendrupal/DrupalAppConsole)

@@ -87,6 +87,7 @@
     + [Understanding Drupal 8, part 1: the general structure of the framework](http://cipix.nl/understanding-drupal-8-part-1-general-structure-framework)
     + [Understanding Drupal 8, part 2: The Service Container](http://cipix.nl/understanding-drupal-8-part-2-service-container)
     + [Why you should be excited about Drupal 8](https://www.acquia.com/blog/why-you-should-be-excited-about-drupal-8)
+    + [Battleplan for Search & Solr in Drupal 8](https://www.acquia.com/blog/battleplan-search-solr-drupal-8)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

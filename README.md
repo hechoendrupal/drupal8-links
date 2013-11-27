@@ -83,6 +83,7 @@
     + [Drupal 8 is Coming](http://pingv.com/blog/drupal-8-coming)
     + [Drupal 8 might be useful](http://www.codeenigma.com/en/blog/drupal-8-might-be-useful)
     + [Drupal 8 how to create an administration form](http://webwash.net/tutorials/how-create-administration-form-drupal-8)
+    + [What’s expected in Drupal 8?](http://www.anubavam.com/blogs/what%E2%80%99s-expected-drupal-8)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

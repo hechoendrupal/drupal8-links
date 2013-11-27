@@ -85,6 +85,7 @@
     + [Drupal 8 how to create an administration form](http://webwash.net/tutorials/how-create-administration-form-drupal-8)
     + [What’s expected in Drupal 8?](http://www.anubavam.com/blogs/what%E2%80%99s-expected-drupal-8)
     + [Understanding Drupal 8, part 1: the general structure of the framework](http://cipix.nl/understanding-drupal-8-part-1-general-structure-framework)
+    + [Understanding Drupal 8, part 2: The Service Container](http://cipix.nl/understanding-drupal-8-part-2-service-container)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

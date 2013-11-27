@@ -79,7 +79,7 @@
     + [Drupal 8: contrib roads, take me home](http://flink.com.au/ramblings/drupal8-contrib-roads-take-me-home)
     + [Drupal 8 is Coming](http://pingv.com/blog/drupal-8-coming)
     + [Drupal 8 might be useful](http://www.codeenigma.com/en/blog/drupal-8-might-be-useful)
-    + [How to create administration form](http://webwash.net/tutorials/how-create-administration-form-drupal-8)
+    + [Drupal 8 how to create an administration form](http://webwash.net/tutorials/how-create-administration-form-drupal-8)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

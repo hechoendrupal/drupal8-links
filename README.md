@@ -10,6 +10,7 @@
     + [Change records for Drupal core](https://drupal.org/list-changes)
     + [What Drupal 8 API changes are still outstanding](https://groups.drupal.org/node/313408)
     + [D8DX: Improving the D8 developer experience](https://drupal.org/community-initiatives/drupal-core/d8dx)
+    + [Drupal 8 is Coming Soon!](https://drupal.org/drupal-8.0)
 + PHP Docs
     + [Classes and Objects](http://php.net/manual/en/language.oop5.php)
 + Code Examples
@@ -89,6 +90,7 @@
     + [Why you should be excited about Drupal 8](https://www.acquia.com/blog/why-you-should-be-excited-about-drupal-8)
     + [Battleplan for Search & Solr in Drupal 8](https://www.acquia.com/blog/battleplan-search-solr-drupal-8)
     + [Drupal 8 Ready: What's new for Developers?](http://previousnext.com.au/blog/drupal-8-ready-whats-new-developers)
+    + [The Fall of PEAR and the Rise of Composer](http://benramsey.com/blog/2013/11/the-fall-of-pear-and-the-rise-of-composer/)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

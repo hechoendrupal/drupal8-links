@@ -36,6 +36,8 @@
     + [Connect Drupal 8 RESTful Service with Guzzle PHP Web Service Client](http://eureka.ykyuen.info/2013/09/03/connect-drupal-8-restful-service-with-guzzle-php-web-service-client-1/)
     + [Drupal 8 – Login in Guzzle Web Service Client](http://eureka.ykyuen.info/2013/09/04/drupal-8-login-in-guzzle-web-service-client/)
     + [First Approach to Drupal 8](http://drewpull.drupalgardens.com/blog/first-approach-drupal-8)
+    + [Forms & Database in Drupal 8](http://drewpull.drupalgardens.com/blog/forms-database-drupal-8)
+    + [Drupal 8 Twig template engine](http://drewpull.drupalgardens.com/blog/drupal-8-twig-template-engine)
     + [Routing with Drupal 8](http://slid.es/saschagrossenbacher/drupal-8-routing)
     + [Drupal 8 module development #3 - adding a settings page](hhttp://www.enginx.com/content/drupal-8-module-development-3-adding-settings-page)
     + [Drupal 8 Example module: block, menu, form, settings, ...](https://github.com/nyl-auster/D8-foomodule)
@@ -115,6 +117,7 @@
     + [Portando un módulo a Drupal 8 (Spanish)](https://vimeo.com/74011659)
     + [How I Learned to Stop Worrying and Love Drupal 8](https://www.drupalcampatlanta.com/session/how-i-learned-stop-worrying-and-love-drupal-8)
 + Virtual Machines & Stacks
+    + [Waiting for Drupal 8? Drupal 8 Dev already available in BitNami!](http://blog.bitnami.com/2013/09/waiting-for-drupal-8-drupal-8-dev.html)
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
     + [Building Really Fast Websites with Drupal 8](https://www.youtube.com/watch?v=lKuyGFOhWxU)
 + Books

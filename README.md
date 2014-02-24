@@ -1,4 +1,4 @@
-##Drupal 8 links & resources 
+##Drupal 8 links & resources
   Feel free to fork & contribute :)
 
 + Official docs
@@ -20,7 +20,7 @@
     + [Step-by-step: Converting modules from Drupal 7 to Drupal 8](http://webchick.net/upgrade-modules-d8)
     + [A practical example for converting a Drupal 7 module to work with Drupal 8](http://www.pixelite.co.nz/article/practical-example-converting-drupal-7-module-work-drupal-8)
     + [Theming in Drupal 8 - Conversion of themes to Twig](http://www.undpaul.de/blog/2013/07/04/theming-drupal-8-conversion-themes-twig)
-    + [Twigify converts Drupal 7 phpTemplate themes into Drupal 8 Twig themes](https://github.com/ElephantVentures/public-twigify)    
+    + [Twigify converts Drupal 7 phpTemplate themes into Drupal 8 Twig themes](https://github.com/ElephantVentures/public-twigify)
     + [Drupal 8 Field API series part 1: field formatters](http://realize.be/drupal-8-field-api-series-part-1-field-formatters)
     + [Routing Example in Drupal 8](https://github.com/nathanjo/example_d8)
     + [Controlling Access to Drupal 8 Routes with Access Checks](http://previousnext.com.au/blog/controlling-access-drupal-8-routes-access-checks)
@@ -93,6 +93,8 @@
     + [Battleplan for Search & Solr in Drupal 8](https://www.acquia.com/blog/battleplan-search-solr-drupal-8)
     + [Drupal 8 Ready: What's new for Developers?](http://previousnext.com.au/blog/drupal-8-ready-whats-new-developers)
     + [The Fall of PEAR and the Rise of Composer](http://benramsey.com/blog/2013/11/the-fall-of-pear-and-the-rise-of-composer/)
+    + [what's new in Drupal 8 and how you can contribute](http://beautiful7mind.wordpress.com/2013/02/11/whats-new-in-drupal-8-and-how-you-can-contribute/)
+    + [Converting 7.x drupal module to 8.x](http://beautiful7mind.wordpress.com/2013/03/14/converting-7-x-drupal-module-to-8-x/)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

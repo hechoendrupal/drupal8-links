@@ -95,6 +95,8 @@
     + [The Fall of PEAR and the Rise of Composer](http://benramsey.com/blog/2013/11/the-fall-of-pear-and-the-rise-of-composer/)
     + [what's new in Drupal 8 and how you can contribute](http://beautiful7mind.wordpress.com/2013/02/11/whats-new-in-drupal-8-and-how-you-can-contribute/)
     + [Converting 7.x drupal module to 8.x](http://beautiful7mind.wordpress.com/2013/03/14/converting-7-x-drupal-module-to-8-x/)
+    + [D8FTW: Breadcrumbs That Work](http://palantir.net/blog/d8ftw-breadcrumbs-work)
+    + [D8FTW: Hacking Core Without Killing Kittens](http://palantir.net/blog/d8ftw-hacking-core-without-killing-kittens)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)

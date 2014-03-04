@@ -121,6 +121,8 @@
     + [Portando un módulo a Drupal 8 (Spanish)](https://vimeo.com/74011659)
     + [How I Learned to Stop Worrying and Love Drupal 8](https://www.drupalcampatlanta.com/session/how-i-learned-stop-worrying-and-love-drupal-8)
     + [Create a Symfony Application from a Drupal Perspective](https://www.youtube.com/watch?v=v-6RCEJFINE)
++ Podcasts
+    + [REST in Drupal 8](http://www.lullabot.com/blog/podcasts/drupalizeme-podcast/36-rest-drupal-8)
 + Virtual Machines & Stacks
     + [Waiting for Drupal 8? Drupal 8 Dev already available in BitNami!](http://blog.bitnami.com/2013/09/waiting-for-drupal-8-drupal-8-dev.html)
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)

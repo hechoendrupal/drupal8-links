@@ -110,6 +110,7 @@
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
     + [First Take: Create a Block in Drupal 8](http://youtu.be/NiO9Z8s3yRA)
 + Videos
+    + [Drupal 8: The Crash Course (Larry Garfield)](https://www.youtube.com/watch?v=8vwC_01KFLo)
     + [EBDUG 02 - Twig, Drupal 8's New Theme Layer (Jen Lampton)](http://www.youtube.com/watch?v=adrW67KrdUY)
     + [Creating Your First Simple Drupal 8 Module (Dev version July 2013)](http://www.youtube.com/watch?v=Q-aubgnL72s)
     + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)

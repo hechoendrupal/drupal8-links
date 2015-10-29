@@ -52,6 +52,7 @@
     + [What is exciting about Drupal 8?](http://www.youtube.com/watch?v=PDBGluyY0B8)
     + [Learning by Trial and Error - Installing and Touring Drupal 8](http://drupalize.me/blog/201306/learning-trial-and-error-installing-and-touring-drupal-8)
     + [A Drupal 8 git bisect exercise](http://build2be.com/content/drupal-8-git-bisect-exercise)
+    + [Unravelling the Drupal 8 Plugin System](https://drupalize.me/blog/201409/unravelling-drupal-8-plugin-system)
     + [Thresholds, Code Freeze, Getting Features into Drupal 8, Criticals and Majors in Drupal](http://comm-press.de/en/blog/thresholds-code-freeze-getting-features-drupal-8-criticals-and-majors-drupal)
     + [Upgrading the Busy theme to Drupal 8](http://www.undpaul.de/blog/2013/06/02/upgrading-busy-theme-drupal-8)
     + [Early Drupal 7 vs Drupal 8 performance comparison](http://www.netstudio.gr/en/blog/early-drupal-7-vs-drupal-8-performance-comparison)

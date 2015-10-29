@@ -52,6 +52,7 @@
     + [What is exciting about Drupal 8?](http://www.youtube.com/watch?v=PDBGluyY0B8)
     + [Learning by Trial and Error - Installing and Touring Drupal 8](http://drupalize.me/blog/201306/learning-trial-and-error-installing-and-touring-drupal-8)
     + [A Drupal 8 git bisect exercise](http://build2be.com/content/drupal-8-git-bisect-exercise)
+    + [Unravelling the Drupal 8 Plugin System](https://drupalize.me/blog/201409/unravelling-drupal-8-plugin-system)
     + [Thresholds, Code Freeze, Getting Features into Drupal 8, Criticals and Majors in Drupal](http://comm-press.de/en/blog/thresholds-code-freeze-getting-features-drupal-8-criticals-and-majors-drupal)
     + [Upgrading the Busy theme to Drupal 8](http://www.undpaul.de/blog/2013/06/02/upgrading-busy-theme-drupal-8)
     + [Early Drupal 7 vs Drupal 8 performance comparison](http://www.netstudio.gr/en/blog/early-drupal-7-vs-drupal-8-performance-comparison)
@@ -100,6 +101,7 @@
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
+    + [Drupal 8 The Crash Course](https://www.palantir.net/presentations/dcamsterdam2014-d8-crash-course/#/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
     + [REST and Serialization in Drupal 8](http://linclark.github.io/d8-rest-slides/)
     + [Upgrading your modules to Drupal 8](https://portland2013.drupal.org/node/1683)
@@ -110,6 +112,7 @@
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
     + [First Take: Create a Block in Drupal 8](http://youtu.be/NiO9Z8s3yRA)
 + Videos
+    + [Drupal 8: The Crash Course (Larry Garfield)](https://www.youtube.com/watch?v=8vwC_01KFLo)
     + [EBDUG 02 - Twig, Drupal 8's New Theme Layer (Jen Lampton)](http://www.youtube.com/watch?v=adrW67KrdUY)
     + [Creating Your First Simple Drupal 8 Module (Dev version July 2013)](http://www.youtube.com/watch?v=Q-aubgnL72s)
     + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)
@@ -127,6 +130,7 @@
     + [Waiting for Drupal 8? Drupal 8 Dev already available in BitNami!](http://blog.bitnami.com/2013/09/waiting-for-drupal-8-drupal-8-dev.html)
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
     + [Building Really Fast Websites with Drupal 8](https://www.youtube.com/watch?v=lKuyGFOhWxU)
+    + [Features for Drupal 8](https://www.youtube.com/watch?v=a6QLTjSFVhs&list=PLpeDXSh4nHjR26Dheb6U1NUSp0aACYGvE&index=19)
 + Books
     + [Desarrollo web ágil con Symfony2 - Español](http://symfony.es/libro/)
     + [A Year With Symfony Writing healthy, reusable Symfony2 code](https://leanpub.com/a-year-with-symfony)
